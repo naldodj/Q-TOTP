@@ -58,8 +58,7 @@ Q-TOTP/
 ├── LICENSE
 ├── README.md
 ├── rfc/
-│   ├── RFCen-us.md
-│   ├── RFCpt-br.md
+│   ├── RFC.md
 ├── docs/
 │   ├── api-specs.md
 │   ├── ascii-diagrams.md
@@ -111,7 +110,7 @@ O Q-TOTP é licenciado sob a **MIT License**, garantindo:
 
 ## 📌 Como Começar
 
-1. Leia o `rfc/RFCpt-br.md` para entender o protocolo completo
+1. Leia o `rfc/RFC.md` para entender o protocolo completo
 2. Explore `docs/` para APIs e diagramas
 3. Utilize os exemplos em `examples/`
 4. Teste com a PoC em `tests/`

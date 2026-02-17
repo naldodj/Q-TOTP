@@ -2,8 +2,13 @@
      * Change  ! Fix  % Optimize  + Add  - Remove  ; Comment
    Entries may not always be in chronological/commit order.
    See license at the end of file.
-   (Get-Date).ToUniversalTime().ToString("yyyy-MM-dd HH:mm")+" UTC naldodj (create rfc/)"
+   (Get-Date).ToUniversalTime().ToString("yyyy-MM-dd HH:mm")+" UTC naldodj (bilingual rfc)"
 */
+
+2026-02-17 15:44 UTC naldodj (bilingual rfc)
+  + rfc/RFC.md
+  - rfc/RFCpt-br.md
+  * README.md
 
 2026-02-17 15:27 UTC naldodj (create rfc/)
   * README.md
