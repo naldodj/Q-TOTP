@@ -57,7 +57,9 @@ Cada código TOTP é gerado com seed calculado a partir do estado mais recente, 
 Q-TOTP/
 ├── LICENSE
 ├── README.md
-├── RFC.md
+├── rfc/
+│   ├── RFCen-us.md
+│   ├── RFCpt-br.md
 ├── docs/
 │   ├── api-specs.md
 │   ├── ascii-diagrams.md
@@ -109,7 +111,7 @@ O Q-TOTP é licenciado sob a **MIT License**, garantindo:
 
 ## 📌 Como Começar
 
-1. Leia o `RFC.md` para entender o protocolo completo
+1. Leia o `rfc/RFCpt-br.md` para entender o protocolo completo
 2. Explore `docs/` para APIs e diagramas
 3. Utilize os exemplos em `examples/`
 4. Teste com a PoC em `tests/`
