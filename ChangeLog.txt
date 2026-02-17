@@ -1,0 +1,17 @@
+/* Encoding: UTF-8 (No BOM)  Notation (in 5th column):
+     * Change  ! Fix  % Optimize  + Add  - Remove  ; Comment
+   Entries may not always be in chronological/commit order.
+   See license at the end of file.
+   (Get-Date).ToUniversalTime().ToString("yyyy-MM-dd HH:mm")+" UTC naldodj (Initial commit)"
+*/
+
+2026-02-17 15:07 UTC naldodj (Initial commit)
+  + client/README.md
+  + ChangeLog.txt
+  + docs/README.md
+  + examples/README.md
+  + RFC.md
+  + server/README.md
+  + tests/README.md
+  * LICENSE
+  * README.md
